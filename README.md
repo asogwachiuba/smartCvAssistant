@@ -17,7 +17,7 @@ Resume reader is a Streamlit-based web app that allows users to upload a DOCX-fo
 ## Installation
 Clone the repo:
 ```bash
-git clone https://github.com/your-name/smartCvAssistant.git
+git clone https://github.com/asogwachiuba/smartCvAssistant.git
 cd smartCvAssistant
 
 pip install -r requirements.txt
