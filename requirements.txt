@@ -1,0 +1,7 @@
+streamlit
+python-docx
+docxtpl
+pdfkit
+# spacy
+pdfplumber
+
