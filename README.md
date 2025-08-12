@@ -4,7 +4,7 @@ Resume reader is a Streamlit-based web app that allows users to upload a DOCX-fo
 ![](resume-reader.gif)
 
 ## Features
-- Upload `.docx` CVs and detect sections
+- Upload `.docx` CVs and detect sections(You can test with cv_template.docx in this repository)
 - Define custom section title styles
 - View specific content to include
 
